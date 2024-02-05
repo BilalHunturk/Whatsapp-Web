@@ -1,7 +1,7 @@
 This project has created with React + vite
 # How to Run
 `
-npm install
+npm install \n
 npm run dev
 `
 Tailwind has used to create this project. 
