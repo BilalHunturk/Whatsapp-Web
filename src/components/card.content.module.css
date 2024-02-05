@@ -1,0 +1,17 @@
+.custom-download-part{
+    height: 114px;
+    max-height: 114px;
+    width: 880px;
+    max-width: 880px;
+    border: 1px solid #e1dfdf;
+    border-radius: 8px;
+    border-color: rgba(0, 0, 0, 0.27);
+    overflow: hidden;
+    padding: 16px;
+}
+.padding-each-container > * {
+    padding: 10px;
+}
+.padding-container{
+    padding-top: 32px;
+}

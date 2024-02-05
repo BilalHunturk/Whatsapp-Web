@@ -1,0 +1,23 @@
+.top {
+    top: 0;
+    height: 222px;
+    max-height: 222px;
+    background-color: #00A884;
+    position: fixed ;
+    /*z-index: 1;*/
+    left: 0;
+    right: 0;
+}
+
+.bottom {
+    top: 222px;
+    background-color: #101B20;
+    position: fixed;
+    /*z-index: 1;*/
+    left: 0;
+    right: 0;
+    height: 100%;
+}
+/*
+#00A884
+*/
